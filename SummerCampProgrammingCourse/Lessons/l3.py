@@ -1,5 +1,27 @@
-# index
+# indexing
 
-x = "python"
 
-print(x[0])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# x = 'python'
+
+# print(x[0])

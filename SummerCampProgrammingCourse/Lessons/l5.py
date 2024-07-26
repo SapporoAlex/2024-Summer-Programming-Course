@@ -1,6 +1,25 @@
 # lists, append, remove, modify by index
 
-shopping_list = []
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# shopping_list = []
 
 # print(shopping_list)
 #

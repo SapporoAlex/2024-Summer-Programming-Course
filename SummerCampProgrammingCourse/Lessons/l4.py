@@ -1,6 +1,27 @@
 # if else statements
 
-rainy = True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# rainy = True
 
 # if rainy:
 #     print('It is rainy today')

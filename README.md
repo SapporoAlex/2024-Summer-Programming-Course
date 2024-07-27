@@ -15,6 +15,9 @@
 - l9.py： 華氏から摂氏への変換プロジェクト
 - l10.py： じゃんけんプロジェクト
 
+## 説明書
+<a href="https://sapporoalex.github.io/2024-Summer-Programming-Course/">自宅での続き方</a>
+
 
 # 2024 Summer Programming Course
 
